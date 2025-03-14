@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🎓 I'm pursuing a degree in ... Computer Science (B.S.) w/ Mobile Development Minor
 - 🔭 I’m currently working on ... various projects
 - 🌱 I’m currently learning ... Computer Science
 - 👯 I’m looking to collaborate on ... projects, perhaps.
