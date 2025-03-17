@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🎓 I'm pursuing a degree in ... Computer Science (B.S.) w/ Mobile Development Minor, Graduating May 2026
-- 🔭 I’m currently working on ... various projects
+- 🔭 I’m currently working on ... Implementing data structures and algorithms in java
 - 🌱 I’m currently learning ... Computer Science
 - 👯 I’m looking to collaborate on ... projects, perhaps.
 - 🤔 I’m looking for help with ... internships
