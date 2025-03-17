@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on ... projects, perhaps.
 - 🤔 I’m looking for help with ... internships
 - 💬 Ask me about ... Java
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ... My favorite programming language is Java
+- 📫 How to reach me: ... [Check out my website!](https://hagensv.github.io)
+- ⚡ Fun fact: ... I prefer statically typed languages
